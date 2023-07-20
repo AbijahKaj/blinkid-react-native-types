@@ -1,13 +1,26 @@
 {
     "name": "@types/blinkid-react-native",
     "version": "0.0.1",
-    "repository": "git+https://github.com/BlinkID/blinkid-react-native.git",
-    "author": "Abijah Kajabika",
+    "private": false,
+    "repository": "git+https://github.com/AbijahKaj/blinkid-react-native-types.git",
+    "author": "Abijah Kajabika <me@realabijah.com>",
     "license": "MIT",
-    "homepage": "https://github.com/BlinkID/blinkid-react-native",
+    "homepage": "https://github.com/AbijahKaj/blinkid-react-native-types",
     "bugs": {
-        "url": "https://github.com/BlinkID/blinkid-react-native/issues"
+        "url": "https://github.com/AbijahKaj/blinkid-react-native-types"
     },
+    "main": "",
+    "types": "index.d.ts",
     "description": "Types for blinkid-react-native package",
-    "main": "index.js"
+    "keywords": [
+        "react-native",
+        "typescript",
+        "blinkid",
+        "types",
+        "scanner",
+        "identity",
+        "card",
+        "document",
+        "microblink"
+    ]
 }
