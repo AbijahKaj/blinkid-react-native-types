@@ -1,0 +1,13 @@
+{
+    "name": "@types/blinkid-react-native",
+    "version": "0.0.1",
+    "repository": "git+https://github.com/BlinkID/blinkid-react-native.git",
+    "author": "Abijah Kajabika",
+    "license": "MIT",
+    "homepage": "https://github.com/BlinkID/blinkid-react-native",
+    "bugs": {
+        "url": "https://github.com/BlinkID/blinkid-react-native/issues"
+    },
+    "description": "Types for blinkid-react-native package",
+    "main": "index.js"
+}

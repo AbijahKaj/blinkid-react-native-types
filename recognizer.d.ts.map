@@ -1,0 +1,1 @@
+{"version":3,"file":"recognizer.d.ts","sourceRoot":"","sources":["../../recognizer.ts"],"names":[],"mappings":"AAAA;;;;GAIG;AACH,qBAAa,UAAU;IACnB,cAAc,EAAE,GAAG,CAAC;gBACR,cAAc,KAAA;CAI7B;AAED;;EAEE;AACF,eAAO,MAAM,qBAAqB;IAE1B,iCAAiC;;IAEjC,kHAAkH;;IAElH,qDAAqD;;;EAI5D,CAAC;AAEF;;;GAGG;AACH,qBAAa,gBAAgB;IACzB,WAAW,EAAE,GAAG,CAAC;gBACL,WAAW,KAAA;CAM1B"}
