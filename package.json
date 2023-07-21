@@ -1,8 +1,11 @@
 {
     "name": "@types/blinkid-react-native",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "private": false,
-    "repository": "git+https://github.com/AbijahKaj/blinkid-react-native-types.git",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AbijahKaj/blinkid-react-native-types.git"
+    },
     "author": "Abijah Kajabika <me@realabijah.com>",
     "license": "MIT",
     "homepage": "https://github.com/AbijahKaj/blinkid-react-native-types",
@@ -22,5 +25,6 @@
         "card",
         "document",
         "microblink"
-    ]
+    ],
+    "scripts": {}
 }
